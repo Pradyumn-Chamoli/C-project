@@ -1,4 +1,5 @@
 # Library Management in c
+This code stores the bookname , its author , pages and its price .
 
 #include <stdio.h>
 #include <stdlib.h>
